@@ -17,6 +17,6 @@ Each file is named after the problem it solves. For example:
 - 
 ### Progress
  #Total Solved: 1
-- Easy: 1
+- Easy: 2
 - Medium: 0
 - Hard: 0
