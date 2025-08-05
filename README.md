@@ -1,2 +1,22 @@
-# DSA-Practice
-I'm going to practice DSA problems and upload here so that i can help myself maintain consistency and enhance my problem solving skills.
+# DSA Practice Repository
+
+This repository contains my solutions to Data Structures & Algorithms problems. I'm going to practice and upload here so that i can help myself maintain consistency and enhance my problem solving skills.
+
+### Languages Used:
+- C++ (mostly)
+
+### 📁 File Naming Convention:
+Each file is named after the problem it solves. For example:
+- `TwoSum.cpp`
+
+### 📁 Folder Structure
+
+- `Easy/` – Problems with easy difficulty
+- `Medium/` – Problems with medium difficulty
+- `Hard/` – Problems with hard difficulty
+- 
+### Progress
+ #Total Solved: 1
+- Easy: 1
+- Medium: 0
+- Hard: 0
