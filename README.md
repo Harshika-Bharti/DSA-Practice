@@ -3,7 +3,7 @@
 This repository contains my solutions to Data Structures & Algorithms problems. I'm going to practice and upload here so that i can help myself maintain consistency and enhance my problem solving skills.
 
 ### Languages Used:
-- C++ (mostly)
+- C++
 
 ### 📁 File Naming Convention:
 Each file is named after the problem it solves. For example:
